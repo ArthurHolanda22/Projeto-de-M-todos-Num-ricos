@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+metodos_numericos/__init__.py
+metodos_numericos/equacao.py
+metodos_numericos/metodos.py
+metodos_numericos.egg-info/PKG-INFO
+metodos_numericos.egg-info/SOURCES.txt
+metodos_numericos.egg-info/dependency_links.txt
+metodos_numericos.egg-info/requires.txt
+metodos_numericos.egg-info/top_level.txt

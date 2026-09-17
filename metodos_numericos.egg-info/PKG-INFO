@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: metodos_numericos
+Version: 0.1.0
+Summary: Pacote de Métodos Numéricos para determinação de raízes de equações
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
+# Projeto-de-M-todos-Num-ricos
+Problema 3 - Escoamento de Água
